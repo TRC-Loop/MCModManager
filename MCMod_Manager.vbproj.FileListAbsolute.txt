@@ -1,0 +1,13 @@
+C:\Users\Arne\HiDrive\public\Dev\Variable programme\MCMod_Manager\MCMod_Manager\bin\Debug\MCMod_Manager.exe.config
+C:\Users\Arne\HiDrive\public\Dev\Variable programme\MCMod_Manager\MCMod_Manager\bin\Debug\MCMod_Manager.exe
+C:\Users\Arne\HiDrive\public\Dev\Variable programme\MCMod_Manager\MCMod_Manager\bin\Debug\MCMod_Manager.pdb
+C:\Users\Arne\HiDrive\public\Dev\Variable programme\MCMod_Manager\MCMod_Manager\bin\Debug\MCMod_Manager.xml
+C:\Users\Arne\HiDrive\public\Dev\Variable programme\MCMod_Manager\MCMod_Manager\obj\Debug\MCMod_Manager.vbproj.AssemblyReference.cache
+C:\Users\Arne\HiDrive\public\Dev\Variable programme\MCMod_Manager\MCMod_Manager\obj\Debug\MCMod_Manager.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Arne\HiDrive\public\Dev\Variable programme\MCMod_Manager\MCMod_Manager\obj\Debug\MCMod_Manager.Form1.resources
+C:\Users\Arne\HiDrive\public\Dev\Variable programme\MCMod_Manager\MCMod_Manager\obj\Debug\MCMod_Manager.Resources.resources
+C:\Users\Arne\HiDrive\public\Dev\Variable programme\MCMod_Manager\MCMod_Manager\obj\Debug\MCMod_Manager.vbproj.GenerateResource.cache
+C:\Users\Arne\HiDrive\public\Dev\Variable programme\MCMod_Manager\MCMod_Manager\obj\Debug\MCMod_Manager.vbproj.CoreCompileInputs.cache
+C:\Users\Arne\HiDrive\public\Dev\Variable programme\MCMod_Manager\MCMod_Manager\obj\Debug\MCMod_Manager.exe
+C:\Users\Arne\HiDrive\public\Dev\Variable programme\MCMod_Manager\MCMod_Manager\obj\Debug\MCMod_Manager.xml
+C:\Users\Arne\HiDrive\public\Dev\Variable programme\MCMod_Manager\MCMod_Manager\obj\Debug\MCMod_Manager.pdb
